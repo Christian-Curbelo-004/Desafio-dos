@@ -1,2 +1,1 @@
 # Desafio-dos
-# Responsabilidades
